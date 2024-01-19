@@ -1,0 +1,19 @@
+.container {
+  height: 200px;
+  width: 500px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+
+.container-btn button {
+  outline: none;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 6px;
+  margin: 2rem 0.1rem;
+}
